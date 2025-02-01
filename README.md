@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Catalina San Juan  
 
-<!--
-**catalinasanjuan/catalinasanjuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Front-End Developer | Técnico Analista Programador | Estudiante de Ingeniería Informática**  
+🎵 Apasionada por los desafíos y la tecnología  
+🌱 Aprendiendo **Playwright** y **PostgreSQL**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 **Proyectos Actuales**
+- **[Moodify](https://github.com/catalinasanjuan/Moodify.git)** 🎶  
+  _Generador de playlists basado en el estado de ánimo._
+- **[Chrnoletter](https://github.com/catalinasanjuan/Chrnoletter.git)** ✉️  
+  _Organización eficiente de correspondencia cronológica._
+
+---
+
+## 🛠️ **Habilidades Técnicas**
+- **Lenguajes de Programación:** Python, Java, JavaScript, TypeScript  
+- **Frameworks y Librerías:** React, Node.js, Express, Next.js, Angular, Tailwind, Pywinauto, Appium + WinAppDriver, Katalon  
+- **Bases de Datos:** MongoDB, MySQL, SQLite, Oracle, PostgreSQL  
+- **Herramientas y Plataformas:** Git, GitHub, Netlify, Alwaysdata, Railway, PythonAnywhere  
+
+---
+
+## 📫 **Contáctame en:**  
+- 🌎 **[Portafolio](https://catalina-sanjuan-portafolio.netlify.app/)**  
+- 💼 **[LinkedIn](https://cl.linkedin.com/in/catalina-sanjuan-programadora)**  
+- 🐙 **[GitHub](https://github.com/catalinasanjuan)**  
