@@ -2,21 +2,13 @@
 
 💻 **Front-End Developer | Técnico Analista Programador | Estudiante de Ingeniería Informática**  
 🎵 Apasionada por los desafíos y la tecnología  
-🌱 Aprendiendo **Playwright** y **PostgreSQL**  
-
----
-
-## 🚀 **Proyectos Actuales**
-- **[Moodify](https://github.com/catalinasanjuan/Moodify.git)** 🎶  
-  _Generador de playlists basado en el estado de ánimo._
-- **[Chrnoletter](https://github.com/catalinasanjuan/Chrnoletter.git)** ✉️  
-  _Organización eficiente de correspondencia cronológica._
+🌱 Aprendiendo **Playwright**, **PostgreSQL** Y **Make**  
 
 ---
 
 ## 🛠️ **Habilidades Técnicas**
 - **Lenguajes de Programación:** Python, Java, JavaScript, TypeScript  
-- **Frameworks y Librerías:** React, Node.js, Express, Next.js, Angular, Tailwind, Pywinauto, Appium + WinAppDriver, Katalon  
+- **Frameworks y Librerías:** React, Node.js, Express, Next.js, Angular, Tailwind, Pywinauto, Appium + WinAppDriver, Katalon, Playwright y Make 
 - **Bases de Datos:** MongoDB, MySQL, SQLite, Oracle, PostgreSQL  
 - **Herramientas y Plataformas:** Git, GitHub, Netlify, Alwaysdata, Railway, PythonAnywhere  
 
