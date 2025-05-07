@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Catalina San Juan  
 
-💻 **Front-End Developer | QA Automation Enginee | Técnico Analista Programador | Estudiante de Ingeniería Informática**  
+💻 **Front-End Developer | QA Automation Engineer | Técnico Analista Programador | Estudiante de Ingeniería Informática**  
 🎵 Apasionada por los desafíos y la tecnología  
 🌱 Aprendiendo **Playwright**, **PostgreSQL** Y **Make**  
 
