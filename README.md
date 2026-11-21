@@ -54,7 +54,7 @@ Transformo procesos de testing manuales y repetitivos en automatización manteni
 | Proyecto | Qué hace | Stack |
 |---|---|---|
 | [Automatización Google Forms](https://github.com/catalinasanjuan/automatizacion-google-forms) | Script que completa y envía formularios de forma automática | Python · Playwright |
-| [Selenium Jalisco](https://github.com/catalinasanjuan/Selenium_jalisco) | Automatización web con Selenium | Selenium |
+| [Bot Selenium: Adivina el Número](https://github.com/catalinasanjuan/jalisco) | Bot que juega y resuelve un juego web detectando el feedback de la UI | Python · Selenium |
 | [The Clow Readings](https://github.com/catalinasanjuan/The-Clow-Readings) | App interactiva de tiradas de cartas | Vue 3 · TypeScript |
 | [IsekAI Generator](https://github.com/catalinasanjuan/IsekIA-Generator) | Generador de historias con IA | Vue · Cohere AI |
 
